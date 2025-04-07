@@ -1,0 +1,77 @@
+/* Global Styles */
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif; /* Fonte mais mágica */
+  color: white;
+  position: relative;
+}
+
+/* Logo Styles */
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 150px;
+  width: auto;
+  z-index: 10;
+}
+
+/* Container with the background image */
+.container {
+  background: url('https://uploads.spiritfanfiction.com/historias/capitulos/201711/hogwarts--o-misterio-da-floresta-proibida-interativa-10888934-071120171326.jpg') no-repeat center center/cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Content div for text and button */
+.content {
+  text-align: center;
+  background-color: rgba(1, 0, 0, 0.6);
+  padding: 30px 50px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  max-width: 500px;
+}
+
+.content h2 {
+  margin-bottom: 15px;
+  font-size: 2em;
+  color: #f0d300; /* cor dourada mágica */
+  text-shadow: 0 0 10px #f0d30033;
+}
+
+.content p {
+  font-size: 1.1em;
+  margin-bottom: 30px;
+  color: #ccc;
+}
+
+/* Button Styles */
+button {
+  background-color: #4B0082; /* Roxo estilo feitiço */
+  border: none;
+  padding: 12px 24px;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  font-weight: bold;
+  box-shadow: 0 0 10px #4B0082;
+}
+
+button:hover {
+  background-color: #6a0dad;
+  box-shadow: 0 0 15px #1ABC9C;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 10px;
+  color: #aaa;
+}
