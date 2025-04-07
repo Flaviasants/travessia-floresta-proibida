@@ -25,6 +25,7 @@ Desenvolvi este projeto durante a Imersão Dev 9ª Edição da Alura, inspirado 
 
 [Clique aqui para acessar o jogo](https://codepen.io/Flaviasants/pen/NPWmJYo).
 
+![Interface da Travessia da Floresta Proibida](./travessia-bg.PNG)
 
 
 Feito com ❤️ por [Flávia Santos](https://github.com/Flaviasants).
