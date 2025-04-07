@@ -21,13 +21,10 @@ Desenvolvi este projeto durante a Imersão Dev 9ª Edição da Alura, inspirado 
 
 ---
 
-## 🛠 Como testar
+## 🛠 Visualize o projeto:
 
-Você pode visualizar o projeto em funcionamento acessando o link abaixo:
+[Clique aqui para acessar o jogo](https://codepen.io/Flaviasants/pen/NPWmJYo).
 
-🔗 [https://flaviasants.github.io/travessia-floresta-proibida/](https://flaviasants.github.io/travessia-floresta-proibida/)
 
-Ou clone o repositório e abra o arquivo `index.html` no seu navegador:
 
-```bash
-git clone https://github.com/Flaviasants/travessia-floresta-proibida.git
+Feito com ❤️ por [Flávia Santos](https://github.com/Flaviasants).
